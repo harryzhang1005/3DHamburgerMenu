@@ -8,7 +8,7 @@
 
 import UIKit
 
-// Main container view controller
+// Main container view controller (Menu and Detail views)
 class ViewController: UIViewController {
     
     @IBOutlet weak var scrollView: UIScrollView!    // left is menu view, right is detail view
